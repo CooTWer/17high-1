@@ -2,7 +2,7 @@
   "name": "17high",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:ThoughtWorksWuhanUI/17high.git",
+  "repository": "git@github.com:CooTWer/17high-1.git",
   "author": "ThoughtWorksWuhan",
   "license": "MIT",
   "devDependencies": {
